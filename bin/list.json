@@ -1,37 +1,37 @@
 {
   "builds": [
     {
-      "path": "hypjson-v0.0.1+commit.360d2d0.js",
+      "path": "hypjson-v0.0.1+commit.360d2d05.js",
       "version": "0.0.1",
-      "build": "commit.360d2d0",
-      "longVersion": "0.0.1+commit.360d2d0",
+      "build": "commit.360d2d05",
+      "longVersion": "0.0.1+commit.360d2d05",
       "keccak256": "0xdaee913f71a5b26b9433de4d28a12653432355eb0babaffd9836cb66bc6b8d43",
       "sha256": "0x913bdfb17c2e439f12baee20f09d58fd8fcb9c72e2e06fe33b1ea1a91e56637e",
       "urls": []
     },
     {
-      "path": "hypjson-v0.0.2+commit.3e18e55.js",
+      "path": "hypjson-v0.0.2+commit.3e18e55d.js",
       "version": "0.0.2",
-      "build": "commit.3e18e55",
-      "longVersion": "0.0.2+commit.3e18e55",
+      "build": "commit.3e18e55d",
+      "longVersion": "0.0.2+commit.3e18e55d",
       "keccak256": "0xd00345bc4965af6dc7659ca8c5de5a218b94e014fd9d1b837a84cca6c270601e",
       "sha256": "0x3d057928c2ab6ba58a0afa4acb65f089c7083ce711e2e2f3169fca8311e3beaf",
       "urls": []
     },
     {
-      "path": "hypjson-v0.1.0+commit.4b49301.js",
+      "path": "hypjson-v0.1.0+commit.4b493011.js",
       "version": "0.1.0",
-      "build": "commit.4b49301",
-      "longVersion": "0.1.0+commit.4b49301",
+      "build": "commit.4b493011",
+      "longVersion": "0.1.0+commit.4b493011",
       "keccak256": "0x0c1bf1f7c63f95d99c52bdcf74910abca8946d3bd6d305b0ecf207dd735c6dcf",
       "sha256": "0x3f7138e633dd2177c6e19f73cdbd42ed7d52ed3d72ad5ae2a5981ee59c72b000",
       "urls": []
     }
   ],
   "releases": {
-    "0.1.0": "hypjson-v0.1.0+commit.4b49301.js",
-    "0.0.2": "hypjson-v0.0.2+commit.3e18e55.js",
-    "0.0.1": "hypjson-v0.0.1+commit.360d2d0.js"
+    "0.1.0": "hypjson-v0.1.0+commit.4b493011.js",
+    "0.0.2": "hypjson-v0.0.2+commit.3e18e55d.js",
+    "0.0.1": "hypjson-v0.0.1+commit.360d2d05.js"
   },
   "latestRelease": "0.1.0"
 }
